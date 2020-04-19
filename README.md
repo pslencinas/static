@@ -1,2 +1,2 @@
 # static
-repository for udacit jenkins project
+repository for udacit jenkins and BlueOcean project
